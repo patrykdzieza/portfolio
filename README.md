@@ -6,7 +6,7 @@ Projekt aplikacji wykonany w aplikacji Figma w dwóch motywach - jasnym i ciemny
 
 #### Motyw jasny 
 
-![image](https://github.com/patrykdzieza/portfolio/blob/815744fab725de4cce73e3b6f4ee94ad2fcc08f9/Spendi/Spendi_light-theme.png)
+![image](https://github.com/patrykdzieza/portfolio/blob/47bb2d65035e0bb721e44075890ad403056e7f43/Spendi/Light-theme.png)
 
 #### Motyw ciemny
 
