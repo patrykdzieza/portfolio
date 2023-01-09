@@ -14,4 +14,4 @@ Projekt aplikacji wykonany w aplikacji Figma w dwóch motywach - jasnym i ciemny
 
 Redesign głównego ekranu systemu infotaiment MZD-Connect wykonany w aplikacji Sketch
 
-![image](https://github.com/patrykdzieza/portfolio/blob/b7d73a3835517a8a0b9a98e4f1024682356184e5/Mazda%20MZD-Connect%20Redesign%20-%20Sketch/MZD-Connect%20Redesign2.png)
+![image]https://github.com/patrykdzieza/portfolio/blob/9d1f19a884b150f19c61dfbd4f6dbb530a7a5014/Mazda%20MZD-Connect%20Redesign%20-%20Sketch/MZD-Connect-v1.png)
