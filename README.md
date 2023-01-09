@@ -35,7 +35,7 @@ Projekt plakatu w formacie A1 oraz karty lojalnościowej. Zleceniodawca zdecydow
 #### Plakat wariant 2
 ![image](https://github.com/patrykdzieza/portfolio/blob/92942a5f98566c2dd55e21e3be875f2f2c129121/Tuszka%20-%20Illustrator/plakat_v2_print.png)
 
-#### Karta lojanościowa 
+#### Karta lojalnościowa 
 ![image](https://github.com/patrykdzieza/portfolio/blob/6cb9313d2ddff75458a99d4eb26b21d111ade24d/Tuszka%20-%20Illustrator/Karta_lojal-1.png)
 ![image](https://github.com/patrykdzieza/portfolio/blob/6cb9313d2ddff75458a99d4eb26b21d111ade24d/Tuszka%20-%20Illustrator/Karta_lojal-2.png)
 <br>
