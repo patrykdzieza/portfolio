@@ -1,6 +1,6 @@
 # Moje portfolio
 
-## Spendi - aplikacja do kontroli wydatków i budżetu domowego ##
+** Spendi - aplikacja do kontroli wydatków i budżetu domowego **
 
 Projekt aplikacji wykonany w aplikacji Figma w dwóch motywach - jasnym i ciemnym.
 
